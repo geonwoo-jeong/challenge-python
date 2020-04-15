@@ -27,3 +27,23 @@ remove_x
 DO NOT change anything inside of the "DO NOT TOUCH AREA"
 
 ```
+
+## Day3
+
+https://repl.it/@geonwoojeong/Day-Three-Blueprint-1
+
+```
+
+You need to complete the following functions:
+
+add_to_dict
+get_from_dict
+update_word
+delete_from_dict
+All this functions should check for errors, follow the comments to see all cases you need to cover.
+
+There should be NO ERRORS from Python in the console.
+
+NOT change anything inside of the "DO NOT TOUCH AREA"
+
+```
