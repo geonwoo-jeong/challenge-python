@@ -47,3 +47,22 @@ There should be NO ERRORS from Python in the console.
 NOT change anything inside of the "DO NOT TOUCH AREA"
 
 ```
+
+## Day4
+
+https://repl.it/@geonwoojeong/Day-Four-Blueprint
+
+```
+Challenge:
+
+Using the boilerplate, make a program that gets urls as an input and checks if they are online or not.
+
+The program should accept any number of URLs separated by comma, with or without 'http', with or without spaces, uppercase or lowercase. You need to handle all the cases.
+You need to check if the URL is legit or not.
+The user can restart the program after it's finished.
+
+
+This is how the program should work:
+
+
+```
