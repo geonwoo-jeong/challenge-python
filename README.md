@@ -92,3 +92,21 @@ Check the user input, only numbers from inside the country list are allowed.
 When a country is selected, show the name and currency code.
 
 ```
+
+
+## Day6
+
+https://repl.it/@geonwoojeong/Day-Six-Blueprint
+
+```
+
+Challenge:
+
+Using yesterday's work, extend the functionality to accomplish the following:
+
+After getting the countries and their codes let the user choose two countries.
+Then let the user write an amount of currency they want to convert between country a and country b
+Then send the two currency codes and the amounts to a URL like: https://transferwise.com/gb/currency-converter/gbp-to-usd-rate?amount=50
+Use beautiful soup to scrape Transfer Wise to get the result of the conversion.
+
+```
